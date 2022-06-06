@@ -1,0 +1,3 @@
+def haha:
+    print('hello word')
+    print(123)
